@@ -12,7 +12,7 @@ tags:
 description: Fixing Meta Ads Manager problem on Safari
 ---
 
-Apple has [released a new feature](https://medium.com/r/?url=https%3A%2F%2Fsupport.apple.com%2Fen-us%2FHT213895) profile for Safari in Sonoma a day ago. And this feature might be a dealbreaker for someone who restrained his desire for a long time. But It may be challenging for digital marketers that frequently use Meta Ads Manager in Safari as their primary browser. You might encounter a slow response while using Ads Manager.
+Apple has [released a new feature](https://support.apple.com/en-us/HT213895) profile for Safari in Sonoma a day ago. And this feature might be a dealbreaker for someone who restrained his desire for a long time. But It may be challenging for digital marketers that frequently use Meta Ads Manager in Safari as their primary browser. You might encounter a slow response while using Ads Manager.
 
 ![ads manager 1](https://i.ibb.co.com/yXkWSC3/ads-manager-1.gif)
 
