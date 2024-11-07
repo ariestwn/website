@@ -2,7 +2,7 @@
 title: How to Create Meta Ads Naming Convention
 author: Arie Setiawan
 pubDatetime: 2024-11-07T13:35:19Z
-modDatetime:
+modDatetime: 2024-11-07T13:35:19Z
 slug: how-to-create-meta-ads-naming-convention
 featured: true
 draft: false
