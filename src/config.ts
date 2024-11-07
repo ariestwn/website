@@ -1,11 +1,12 @@
 import type { Site, SocialObjects } from "./types";
+import type { GiscusProps } from "@giscus/react";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  website: "https://www.ariestwn.com/", // replace this with your deployed domain
+  author: "Arie",
+  profile: "https://www.ariestwn.com/",
+  desc: "Driving Results with Data-Driven Digital Marketing Strategies.",
+  title: "ARIESTWN",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -13,10 +14,23 @@ export const SITE: Site = {
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   editPost: {
-    url: "https://github.com/satnaing/astro-paper/edit/main/src/content/blog",
+    url: "https://github.com/ariestwn/website/edit/main/src/content/blog",
     text: "Suggest Changes",
     appendFilePath: true,
   },
+};
+
+export const GISCUS: GiscusProps = {
+  repo: "ariestwn/giscuss",
+  repoId: "R_kgDONLpT7Q",
+  category: "General",
+  categoryId: "DIC_kwDONLpT7c4CkDPd",
+  mapping: "pathname",
+  reactionsEnabled: "0",
+  emitMetadata: "0",
+  inputPosition: "bottom",
+  lang: "en",
+  loading: "lazy",
 };
 
 export const LOCALE = {
@@ -36,23 +50,35 @@ export const SOCIALS: SocialObjects = [
     name: "Github",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: ` ${SITE.title} on Github`,
+    active: false,
+  },
+  {
+    name: "YouTube",
+    href: "https://youtube.com/@ariestwn",
+    linkTitle: `${SITE.title} on YouTube`,
     active: true,
   },
   {
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://instagram.com/nwtseira",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
   {
+    name: "Threads",
+    href: "https://threads.net/@nwtseira",
+    linkTitle: `${SITE.title} on Threads`,
+    active: true,
+  },
+  {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://linkedin.com/in/nwtseira",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
@@ -72,12 +98,6 @@ export const SOCIALS: SocialObjects = [
     name: "Twitch",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Twitch`,
-    active: false,
-  },
-  {
-    name: "YouTube",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on YouTube`,
     active: false,
   },
   {

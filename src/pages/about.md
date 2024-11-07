@@ -3,34 +3,16 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+I’m Ariestwn, a performance marketing specialist at Kitabisa.com, as well as a digital marketing expert, agency owner, and content creator.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+My passion lies in connecting people with impactful campaigns through innovative digital strategies.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+On YouTube, Instagram, and TikTok, I share content about digital marketing, productivity, and technology. I help others navigate and excel in these fields.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+Recently..
 
-## Tech Stack
+one of my YouTube videos reached 10K views—a milestone I’m proud of, even as I work to improve engagement across all my platforms.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+I also enjoy diving into creative branding, learning to design top-tier websites, and summarizing insights from the countless hours I’ve spent absorbing perspectives from leading creators.
 
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Life’s a journey, and I’m here to win at it, one project at a time.
