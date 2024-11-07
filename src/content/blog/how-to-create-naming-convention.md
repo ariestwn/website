@@ -25,6 +25,7 @@ In this article, I will show you how to create a Facebook ad naming convention a
 ## Why it is important
 
 An ad naming convention is a system for consistently naming your ad campaigns, adsets, and ads. This is important for several reasons:
+
 - It makes it easy to find and manage your ads.
 - Quickly locate and analyze specific ads and ad sets.
 - It lets you quickly identify which ads are performing well and which need improvement.
@@ -61,7 +62,7 @@ Here is another sample of elements you can use in your campaign
 
 Example:
 
-> US_1% LLA_21–35_Advantage+_HighVolume
+> US_1% LLA_21–35_Advantage+\_HighVolume
 
 Here is another sample of elements you can use in your adsets or adgroup
 

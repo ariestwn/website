@@ -56,7 +56,7 @@ To become a proficient digital marketer, you need to understand the fundamental 
 
 ## Want to learn more?
 
-I've created a comprehensive video tutorial that covers everything you need to know to get started in digital marketing. Check it out here: 
+I've created a comprehensive video tutorial that covers everything you need to know to get started in digital marketing. Check it out here:
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/CYWoB5FUsps?si=Cdx9FanVigpU1N6z&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
