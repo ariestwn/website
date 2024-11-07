@@ -4,7 +4,7 @@ pubDatetime: 2023-09-27T15:22:00Z
 modDatetime: 2024-10-07T09:12:47.400Z
 title: How to Fix Meta Ads Manager Problems on Safari
 slug: how-to-fix-meta-ads-manager-on-safari
-featured: true
+featured: false
 draft: false
 tags:
   - docs

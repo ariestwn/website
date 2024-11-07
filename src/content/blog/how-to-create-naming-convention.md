@@ -4,7 +4,7 @@ author: Arie Setiawan
 pubDatetime: 2024-11-07T13:35:19Z
 modDatetime: 2024-11-07T13:35:19Z
 slug: how-to-create-meta-ads-naming-convention
-featured: true
+featured: false
 draft: false
 tags:
   - meta-ads
