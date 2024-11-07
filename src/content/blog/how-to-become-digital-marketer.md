@@ -2,6 +2,7 @@
 title: How to Become Digital Marketer in 2024
 author: Arie Setiawan
 pubDatetime: 2024-11-07T13:35:19Z
+modDatetime:
 slug: how-to-become-digital-marketer
 featured: true
 draft: false
